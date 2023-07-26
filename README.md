@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShiranStreams
+- 👋 Hi, I’m @ShiranDev
 - 👀 I’m a part time Indie Game Dev
 - 📫 For details ping me on drshiran2003@gmail.com or DM me on Instagram @shiran.17._
 
