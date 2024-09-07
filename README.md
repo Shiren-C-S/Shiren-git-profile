@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ShiranStreams
-- 👀 I’m a part time Indie Game Dev
+- 👋 Hi, I’m @Shiren-C-S
+- 👀 I’m a full stack software developer
 - 📫 For details ping me on drshiran2003@gmail.com or DM me on Instagram @shiran.17._
 
 <!---
